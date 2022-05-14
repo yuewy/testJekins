@@ -33,7 +33,7 @@ public class TestNg {
     }
 
     @Test
-    public  void test3(){
+    public  void test3() {
         Assert.assertEquals("aaa","bbb");
     }
 
